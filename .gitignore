@@ -1,0 +1,5 @@
+.vscode/
+.vscode-oss/
+.idea/
+*.log
+.DS_Store
